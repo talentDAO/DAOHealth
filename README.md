@@ -1,6 +1,6 @@
 # DAO Health Survey
 
-_Read our write-up on how to use this tool and how it was developed on mirror._
+_[Read our write-up on how to use this tool and how it was developed on mirror](https://talentdao.mirror.xyz/1rT8KGt6wHzC03UQphG-upuW8HqRX6bP9YfFTtijl0Y)._
 
 To compute the DAO Health composite score:
 
